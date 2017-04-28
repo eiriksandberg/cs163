@@ -1,3 +1,5 @@
+
+
 // This code is taken from http://benchmarksgame.alioth.debian.org/u64q/program.php?test=binarytrees&lang=go&id=4
 // This is just to test Go and get everything up and running.
 // Trying to deploy this code to Google Cloud Platform

@@ -1,3 +1,9 @@
+/* The Computer Language Benchmarks Game
+ http://benchmarksgame.alioth.debian.org/
+ contributed by Ralph Ganszky
+ modified for Swift 3.0 by Daniel Muellenborn
+ */
+
 import Darwin
 import Foundation
 import Dispatch
